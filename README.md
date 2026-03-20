@@ -1,26 +1,26 @@
-<h1 align="center">Hi 👋, I'm Akash Goyal, a software engineer from Bangalore, India</h1>
-<h3 align="center">A passionate C++ developer.</h3>
+<h1 align="center">Hi 👋, I'm Akash Goyal — Software Engineer based in Bangalore, India</h1>
+<h3 align="center">Systems Engineer | C++ Specialist | Backend & AI Enthusiast</h3>
 
-<p align="center"><em>A seasoned software developer with over 10 years of extensive experience in software design and development. Proficient in managing the entire software development life cycle, from initial planning to implementation and maintenance.
+<p align="center"><em>A seasoned software developer with over 10+ years of extensive experience in software design and development. Proficient in managing the entire software development life cycle, from initial planning to implementation and maintenance.
 Skilled in conducting impact analysis, project reviews, and comprehensive documentation. Possess deep expertise in Object-Oriented Programming (OOP) and advanced design techniques.</em></p>
 
-<p align="center">Wanna discuss about?: <b>#c, #cpp, #datastructures, #algorithms, #systemdesign, #distributedsystems, #linux, #IoT and #blockchaintechnology</b>.</p>
+<p align="center">Wanna discuss about?: <b>#C #CPlusPlus #DataStructures #Algorithms #SystemDesign #DistributedSystems #Linux #IoT #Blockchain #AI</b>.</p>
 
 ### Profile Summary
-- 🌍 An experienced C++ developer with 9+ years of hands-on experience in the area of software design and development.
-- 💬 Proficient in **#datastructures, #algorithms, #systemdesign, #distributedsystems, #linux, #cplusplus**.
-- 💬 Working knowledge in automotive, IoT, Blockchain and Storage domain.
-- 👯 Contributed to [concord-bft](https://github.com/vmware/concord-bft), a consensus algorithm.
-- 🌱 I'm mostly active within the **C and C++ Community**.
-- ⚙️ I use daily: `.c`, `.c++`, `.py`, `.sh`, `docker`, `linux`.
+- 🌍 Experienced **C++ developer with over 10 years of hands-on expertise** in software design, architecture, and development of high-performance systems.
+- 💬 Strong proficiency in **Data Structures, Algorithms, System Design, Distributed Systems, Linux, and Modern C++**.
+- 💬 Domain exposure across **Automotive, IoT, Blockchain, Enterprise Storage, and AI platforms**.
+- 👯 Passionate about contributing to the **open-source ecosystem and collaborating with developer communities**.
+- 🌱 Actively engaged in the **C, C++, and AI engineering communities**.
+- ⚙️ Daily tech stack includes **AI, C/C++, Python, Shell scripting, Docker, and Linux-based environments**.
 - 📫 How to reach me at **ag.akgoyal@gmail.com**.
 
 
 ### Now
-- 🔭 Currently working with **Pure Storage**.
-- 🔭 Here, I am contributing to the design and development of SMB, Objects ops auditing for FlashBlade product.
-- :fire: Interested in Backend C/C++ technology.
-- :calendar: Seeking to contribute to open source and closed source projects based on C/C++.
+- 🔭 Currently working at **Adobe**.
+- 🔭 Contributing to GenAI and Agentic AI initiatives for the Adobe Illustrator product.
+- :fire: Passionate about building scalable systems and interested in Backend / Server-side development roles.
+- :calendar: Actively looking to contribute to both open-source and proprietary projects in the domains of GenAI and Agentic AI.
 
 <!-- SOCIAL -->
 <h3 align="left">Find me in the 'verse</h3>
