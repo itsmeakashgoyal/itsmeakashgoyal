@@ -29,9 +29,7 @@ Skilled in conducting impact analysis, project reviews, and comprehensive docume
     <a href="https://github.com/itsmeakashgoyal" target="_blank">
         <img alt="github" src="https://img.shields.io/github/followers/itsmeakashgoyal?label=GitHub&amp;style=social" />
     </a><a href="https://www.linkedin.com/in/akashgoyal2309/" target="_blank">
-        <img alt="linkedin" src="https://img.shields.io/badge/Linkedin-grey?logo=linkedin&amp;style=social" />
-    </a><a href="https://leetcode.com/u/akashgoyal2309/" target="_blank">
-        <img alt="leetcode" src="https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fakkiaks-ash&logo=leetcode&logoColor=yellow" />     
+        <img alt="linkedin" src="https://img.shields.io/badge/Linkedin-grey?logo=linkedin&amp;style=social" />  
 </p>
 
 
