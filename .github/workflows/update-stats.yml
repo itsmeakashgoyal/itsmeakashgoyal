@@ -1,0 +1,36 @@
+name: update stats
+
+on:
+  schedule:
+    - cron: "17 4 * * *" # once daily
+  workflow_dispatch: {} # allow manual runs from the Actions tab
+  push:
+    branches: [main]
+    paths:
+      - scripts/update-stats.sh
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: regenerate files/stats.svg
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: ./scripts/update-stats.sh
+
+      - name: commit if changed
+        run: |
+          if git diff --quiet -- files/stats.svg; then
+            echo "no change"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add files/stats.svg
+          git commit -m "chore: refresh profile stats"
+          git push
