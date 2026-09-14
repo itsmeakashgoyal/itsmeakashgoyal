@@ -1,6 +1,6 @@
 <div align="center">
 
-# Akash Goyal
+<img src="./files/banner.svg" width="100%" alt="Akash Goyal" />
 
 **Senior Software Engineer @ Adobe** · C++ · Distributed Systems · GenAI
 
@@ -59,8 +59,14 @@ C · C++ · Data Structures · Algorithms · System Design · Distributed System
 <!--
 Scaling this profile
 =====================
-Everything above is plain Markdown or an inline badge URL (shields.io / komarev /
-readme-typing-svg). There are no custom image files to regenerate:
+The only custom image file is files/banner.svg, and it is deliberately limited to
+content that will never need to change: the name "Akash Goyal" and purely decorative
+terminal chrome / nav pills. If you're ever tempted to add a role, company, year count,
+or tag into that SVG -- don't; put it in the Markdown below instead, or it'll go stale
+and need regenerating again, which was the exact problem this profile used to have.
+
+Everything else is plain Markdown or an inline badge URL (shields.io / komarev /
+readme-typing-svg). There is nothing else to regenerate:
 
 - New skill or tool          → add one badge line under "Tech Stack"
 - Role / focus / bio change  → edit the bullet list under "About" directly
