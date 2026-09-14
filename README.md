@@ -9,11 +9,15 @@
 </div>
 
 <p align="center">
-  <a href="https://itsmeakashgoyal.github.io/portfolio/"><img src="https://img.shields.io/badge/portfolio-0e1219?style=flat-square&logo=vercel&logoColor=7ee787&labelColor=0e1219" alt="portfolio"/></a>
-  <a href="mailto:ag.akgoyal@gmail.com"><img src="https://img.shields.io/badge/email-0e1219?style=flat-square&logo=gmail&logoColor=ffffff&labelColor=0e1219" alt="email"/></a>
-  <a href="https://www.linkedin.com/in/akashgoyal2309/"><img src="https://img.shields.io/badge/linkedin-0e1219?style=flat-square&logo=linkedin&logoColor=ffffff&labelColor=0e1219" alt="linkedin"/></a>
-  <a href="https://github.com/itsmeakashgoyal"><img src="https://img.shields.io/github/followers/itsmeakashgoyal?style=flat-square&logo=github&logoColor=ffffff&label=follow&labelColor=0e1219&color=1d2530" alt="github"/></a>
-  <img src="https://komarev.com/ghpvc/?username=itsmeakashgoyal&style=flat-square&color=1d2530&labelColor=0e1219&label=views" alt="views"/>
+  <a href="https://itsmeakashgoyal.github.io/portfolio/"><img src="./files/badges/portfolio.svg" alt="portfolio"/></a>
+  <a href="mailto:ag.akgoyal@gmail.com"><img src="./files/badges/email.svg" alt="email"/></a>
+  <a href="https://www.linkedin.com/in/akashgoyal2309/"><img src="./files/badges/linkedin.svg" alt="linkedin"/></a>
+  <a href="https://github.com/itsmeakashgoyal"><img src="./files/badges/github.svg" alt="github"/></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/itsmeakashgoyal?tab=followers"><img src="https://img.shields.io/github/followers/itsmeakashgoyal?style=flat-square&label=followers&labelColor=0e1219&color=161b22&logoColor=7ee787" alt="followers"/></a>
+  <img src="https://komarev.com/ghpvc/?username=itsmeakashgoyal&style=flat-square&label=profile+views&color=brightgreen" alt="profile views"/>
 </p>
 
 <br/>
@@ -44,10 +48,10 @@ strengths   Data Structures · Algorithms · Performance · System Design
 
 <br/>
 
-## `❯` git log --stat
+## `❯` gh api users/itsmeakashgoyal
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsmeakashgoyal&hide_border=true&background=0b0e14&stroke=1d2530&border=1d2530&ring=7ee787&fire=e7c664&currStreakLabel=7ee787&sideLabels=c4cbd8&dates=5b6675&sideNums=c4cbd8&currStreakNum=c4cbd8&titleColor=7ee787" alt="contribution streak" />
+  <img src="./files/stats.svg" width="100%" alt="GitHub stats — 26 public repos, 5 followers, top language C++, on GitHub since 2017" />
 </div>
 
 <br/>

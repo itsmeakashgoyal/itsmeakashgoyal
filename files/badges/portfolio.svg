@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="140" height="36" viewBox="0 0 140 36" font-family="'JetBrains Mono',ui-monospace,Consolas,monospace">
+  <rect x="0.5" y="0.5" width="139" height="35" rx="9" fill="#0e1219" stroke="#2a3340"/>
+  <text x="16" y="23" font-size="15" font-weight="700" fill="#7ee787">❯</text>
+  <text x="34" y="23" font-size="13" font-weight="600" fill="#c4cbd8">portfolio</text>
+</svg>
