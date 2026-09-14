@@ -2,11 +2,11 @@
 
 <img src="./files/banner.svg" width="100%" alt="Akash Goyal" />
 
-**Senior Software Engineer @ Adobe** · C++ · Distributed Systems · GenAI
+**Akash Goyal** &nbsp;·&nbsp; Software Developer
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=900&color=8B96A5&center=true&vCenter=true&width=560&lines=11%2B+years+in+high-performance+systems;Storage+backends+%C2%B7+blockchain+consensus;Now%3A+GenAI+%26+Agentic+AI+for+Illustrator" alt="rotating tagline" />
-</a>
+Building high-performance distributed systems — from storage backends to blockchain consensus engines. Now working on GenAI and Agentic AI.
+
+**#C++** &nbsp; **#DistributedSystems** &nbsp; **#DataStructuresAndAlgorithms** &nbsp; **#GenAI** &nbsp; **#AgenticAI**
 
 [![Portfolio](https://img.shields.io/badge/portfolio-itsmeakashgoyal.github.io-58D68D?style=flat-square)](https://itsmeakashgoyal.github.io/portfolio/)
 [![Email](https://img.shields.io/badge/email-ag.akgoyal%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ag.akgoyal@gmail.com)
@@ -14,11 +14,13 @@
 [![Followers](https://img.shields.io/github/followers/itsmeakashgoyal?label=followers&style=flat-square&color=333)](https://github.com/itsmeakashgoyal?tab=followers)
 ![Profile views](https://komarev.com/ghpvc/?username=itsmeakashgoyal&style=flat-square&color=brightgreen&label=views)
 
+<a href="https://itsmeakashgoyal.github.io/portfolio/">
+  <img src="./files/footer.svg" width="100%" alt="./portfolio --open — click anywhere to launch the interactive site" />
+</a>
+
 </div>
 
 ## About
-
-I build systems meant to run for years without anyone thinking about them — storage backends that don't lose data, blockchain consensus that survives node failures, event pipelines that hold up under real load. Deep in Modern C++ and OOP design; these days also shipping GenAI features inside a desktop app used by millions.
 
 - 🔧 **Focus:** Distributed Systems · System Design · Modern C++
 - 🧩 **Domains:** Automotive · IoT · Blockchain · Enterprise Storage · AI
@@ -52,25 +54,23 @@ I build systems meant to run for years without anyone thinking about them — st
 
 C · C++ · Data Structures · Algorithms · System Design · Distributed Systems · Linux · IoT · Blockchain · AI
 
-<div align="center">
-<sub>⭐ from <a href="https://github.com/itsmeakashgoyal">itsmeakashgoyal</a></sub>
-</div>
-
 <!--
 Scaling this profile
 =====================
-The only custom image file is files/banner.svg, and it is deliberately limited to
-content that will never need to change: the name "Akash Goyal" and purely decorative
-terminal chrome / nav pills. If you're ever tempted to add a role, company, year count,
-or tag into that SVG -- don't; put it in the Markdown below instead, or it'll go stale
-and need regenerating again, which was the exact problem this profile used to have.
+There are two custom image files, files/banner.svg and files/footer.svg, and both are
+deliberately limited to content that will never need to change: your name, decorative
+terminal chrome/nav pills, and a portfolio CTA + your (stable) name/GitHub handle as a
+signature. If you're ever tempted to add a role, company, year count, or tag into either
+SVG -- don't; put it in the Markdown below instead, or it'll go stale and need
+regenerating again, which was the exact problem this profile used to have.
 
-Everything else is plain Markdown or an inline badge URL (shields.io / komarev /
-readme-typing-svg). There is nothing else to regenerate:
+Everything else -- name/role line, bio, hashtags, focus/domains/stack, stats, badges --
+is plain Markdown or an inline badge URL (shields.io / komarev). There is nothing else
+to regenerate:
 
 - New skill or tool          → add one badge line under "Tech Stack"
-- Role / focus / bio change  → edit the bullet list under "About" directly
-- Different rotating tagline → edit the `lines=` param in the typing-svg URL
+- Role / bio / hashtags      → edit the text directly under the banner image
+- Focus / domains change     → edit the bullet list under "About"
 - Add a social link          → copy one badge line, change the URL and label
 - Refresh the GitHub Stats numbers → edit the 4 bullet points by hand
 

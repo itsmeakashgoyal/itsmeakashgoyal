@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 170" width="1000" height="170" fill="none" font-family="'JetBrains Mono','SF Mono',ui-monospace,Consolas,monospace">
+  <defs>
+    <linearGradient id="win" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0e1219"/>
+      <stop offset="1" stop-color="#0b0e14"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="8" stdDeviation="16" flood-color="#000000" flood-opacity="0.5"/>
+    </filter>
+  </defs>
+
+  <rect x="20" y="20" width="960" height="130" rx="14" fill="url(#win)" stroke="#1d2530" stroke-width="1" filter="url(#shadow)"/>
+
+  <text x="52" y="66" font-size="17"><tspan fill="#58d68d">&#10095;</tspan><tspan fill="#c4cbd8" dx="10">./portfolio</tspan><tspan fill="#c792ea" dx="10">--open</tspan></text>
+  <rect x="380" y="49" width="12" height="19" fill="#7ee787">
+    <animate attributeName="opacity" values="1;0" dur="1s" calcMode="discrete" repeatCount="indefinite"/>
+  </rect>
+  <text x="52" y="94" font-size="15"><tspan fill="#7ee787">&#8594;</tspan><tspan fill="#8b96a5" dx="10">click anywhere to launch the interactive site</tspan></text>
+
+  <line x1="52" y1="112" x2="948" y2="112" stroke="#1d2530" stroke-width="1"/>
+
+  <text x="500.0" y="140" text-anchor="middle" font-size="13" fill="#5b6675">// built with <tspan fill="#7ee787">&#9829;</tspan> &#8212; Akash Goyal &#183; github.com/itsmeakashgoyal</text>
+</svg>
