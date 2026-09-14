@@ -1,9 +1,11 @@
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                          HERO  ·  terminal                                -->
+<!--            HERO  ·  portfolio landing (click → live site)                 -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <img src="./files/hero.svg" width="100%" alt="Akash Goyal — Systems Engineer, C++ Specialist" />
+  <a href="https://itsmeakashgoyal.github.io/portfolio/">
+    <img src="./files/portfolio.svg" width="100%" alt="Akash Goyal — Senior Software Engineer at Adobe. Click to open the interactive portfolio." />
+  </a>
 </div>
 
 <p align="center">
@@ -18,10 +20,10 @@
 
 ## `❯` whoami
 
-A seasoned software developer with **10+ years** across the full software development life cycle — from planning and impact analysis to implementation, review, and maintenance. Deep expertise in **Object-Oriented Programming**, high-performance systems, and advanced design techniques.
+**Senior Software Engineer at Adobe** with **11+ years** building high-performance distributed systems — from storage backends to blockchain consensus engines. Deep expertise in **Modern C++**, system design, and performance. Currently working on **GenAI & Agentic AI** for Adobe Illustrator.
 
 ```text
-role        Systems Engineer · C++ Specialist · Backend & AI
+role        Senior Software Engineer · C++ Specialist · Backend & AI
 now         GenAI & Agentic AI for Adobe Illustrator @ Adobe
 focus       Distributed Systems · System Design · Modern C++
 domains     Automotive · IoT · Blockchain · Enterprise Storage · AI
@@ -39,18 +41,6 @@ systems     Linux · Docker · Git · Jenkins
 databases   MySQL · Oracle
 strengths   Data Structures · Algorithms · Performance · System Design
 ```
-
-<br/>
-
-## `❯` open portfolio
-
-<div align="center">
-  <a href="https://itsmeakashgoyal.github.io/portfolio/">
-    <img src="https://img.shields.io/badge/%E2%86%92_itsmeakashgoyal.github.io%2Fportfolio-0e1219?style=for-the-badge&labelColor=0e1219&color=7ee787" alt="open portfolio"/>
-  </a>
-  <br/>
-  <sub>A terminal-themed portfolio — projects, experience, and writing.</sub>
-</div>
 
 <br/>
 
@@ -73,5 +63,7 @@ strengths   Data Structures · Algorithms · Performance · System Design
 <br/>
 
 <div align="center">
-  <sub><code>❯ exit</code> &nbsp;·&nbsp; thanks for stopping by &nbsp;·&nbsp; <a href="https://github.com/itsmeakashgoyal">@itsmeakashgoyal</a></sub>
+  <a href="https://itsmeakashgoyal.github.io/portfolio/"><sub><code>❯ ./portfolio --open</code></sub></a>
+  <br/>
+  <sub>// built with ♥ — <a href="https://github.com/itsmeakashgoyal">@itsmeakashgoyal</a></sub>
 </div>
