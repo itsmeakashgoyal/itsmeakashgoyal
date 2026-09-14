@@ -1,12 +1,6 @@
 <div align="center">
 
-<img src="./files/banner.svg" width="100%" alt="Akash Goyal" />
-
-**Akash Goyal** &nbsp;·&nbsp; Software Developer
-
-Building high-performance distributed systems — from storage backends to blockchain consensus engines. Now working on GenAI and Agentic AI.
-
-**#C++** &nbsp; **#DistributedSystems** &nbsp; **#DataStructuresAndAlgorithms** &nbsp; **#GenAI** &nbsp; **#AgenticAI**
+<img src="./files/banner.svg" width="100%" alt="Akash Goyal — Software Developer. Building high-performance distributed systems, from storage backends to blockchain consensus engines. #C++ #DistributedSystems #DataStructureAndAlgorithms #GenAI #AgenticAI" />
 
 [![Portfolio](https://img.shields.io/badge/portfolio-itsmeakashgoyal.github.io-58D68D?style=flat-square)](https://itsmeakashgoyal.github.io/portfolio/)
 [![Email](https://img.shields.io/badge/email-ag.akgoyal%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ag.akgoyal@gmail.com)
@@ -57,19 +51,19 @@ C · C++ · Data Structures · Algorithms · System Design · Distributed System
 <!--
 Scaling this profile
 =====================
-There are two custom image files, files/banner.svg and files/footer.svg, and both are
-deliberately limited to content that will never need to change: your name, decorative
-terminal chrome/nav pills, and a portfolio CTA + your (stable) name/GitHub handle as a
-signature. If you're ever tempted to add a role, company, year count, or tag into either
-SVG -- don't; put it in the Markdown below instead, or it'll go stale and need
-regenerating again, which was the exact problem this profile used to have.
+files/banner.svg now contains the name, role, bio, and hashtags as requested -- that
+means those specific lines require regenerating the image (via scripts or by asking for
+it) if they ever change, same as any other logo/banner image. If that becomes annoying,
+the fix is to move that text out of the SVG and into plain Markdown here instead, same
+treatment as everything below "About" -- just say so and it's a five-minute edit.
 
-Everything else -- name/role line, bio, hashtags, focus/domains/stack, stats, badges --
-is plain Markdown or an inline badge URL (shields.io / komarev). There is nothing else
-to regenerate:
+files/footer.svg stays image-only regardless: it's just a portfolio CTA + your (stable)
+name/GitHub handle, nothing in it changes.
+
+Everything below "About" -- focus/domains/stack, stats, badges -- is plain Markdown or
+an inline badge URL (shields.io / komarev). There is nothing to regenerate there:
 
 - New skill or tool          → add one badge line under "Tech Stack"
-- Role / bio / hashtags      → edit the text directly under the banner image
 - Focus / domains change     → edit the bullet list under "About"
 - Add a social link          → copy one badge line, change the URL and label
 - Refresh the GitHub Stats numbers → edit the 4 bullet points by hand
