@@ -1,7 +1,11 @@
 <div align="center">
 
+# Akash Goyal
+
+**Senior Software Engineer @ Adobe** · C++ · Distributed Systems · GenAI
+
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=900&color=58D68D&center=true&vCenter=true&width=640&lines=Akash+Goyal;Senior+Software+Engineer+%40+Adobe;C%2B%2B+%C2%B7+Distributed+Systems+%C2%B7+GenAI" alt="Akash Goyal" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=900&color=8B96A5&center=true&vCenter=true&width=560&lines=11%2B+years+in+high-performance+systems;Storage+backends+%C2%B7+blockchain+consensus;Now%3A+GenAI+%26+Agentic+AI+for+Illustrator" alt="rotating tagline" />
 </a>
 
 [![Portfolio](https://img.shields.io/badge/portfolio-itsmeakashgoyal.github.io-58D68D?style=flat-square)](https://itsmeakashgoyal.github.io/portfolio/)
@@ -14,7 +18,7 @@
 
 ## About
 
-Senior Software Engineer at **Adobe** with **11+ years** building high-performance distributed systems — from storage backends to blockchain consensus engines. Currently working on **GenAI & Agentic AI** for Adobe Illustrator.
+I build systems meant to run for years without anyone thinking about them — storage backends that don't lose data, blockchain consensus that survives node failures, event pipelines that hold up under real load. Deep in Modern C++ and OOP design; these days also shipping GenAI features inside a desktop app used by millions.
 
 - 🔧 **Focus:** Distributed Systems · System Design · Modern C++
 - 🧩 **Domains:** Automotive · IoT · Blockchain · Enterprise Storage · AI
@@ -37,14 +41,12 @@ Senior Software Engineer at **Adobe** with **11+ years** building high-performan
 
 ## GitHub Stats
 
-<div align="center">
+- 📦 **26** public repositories
+- 👥 **5** followers — live count in the badge above
+- 🏆 Most-used language: **C++**
+- 📅 On GitHub since **2017**
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=itsmeakashgoyal&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmeakashgoyal&layout=compact&theme=dark&hide_border=true" alt="Top languages" />
-
-</div>
-
-> These two cards come from [github-readme-stats](https://github.com/anuraghazra/github-readme-stats), a widely-used shared service — if either shows a gray "loading" placeholder, its public instance is temporarily rate-limited (a known, common issue on that free tier); it recovers on its own, no action needed. Deploying a personal instance removes this entirely — see the "Scaling this profile" note below.
+<sub>Snapshot, updated occasionally by hand — see the "Scaling this profile" note below for why this is plain text instead of the usual stats-card image.</sub>
 
 ## Interests
 
@@ -57,17 +59,23 @@ C · C++ · Data Structures · Algorithms · System Design · Distributed System
 <!--
 Scaling this profile
 =====================
-Everything above is plain Markdown, inline badge URLs (shields.io / komarev / readme-typing-svg),
-or the shared github-readme-stats widget. There are no custom image files to regenerate:
+Everything above is plain Markdown or an inline badge URL (shields.io / komarev /
+readme-typing-svg). There are no custom image files to regenerate:
 
 - New skill or tool          → add one badge line under "Tech Stack"
 - Role / focus / bio change  → edit the bullet list under "About" directly
 - Different rotating tagline → edit the `lines=` param in the typing-svg URL
 - Add a social link          → copy one badge line, change the URL and label
+- Refresh the GitHub Stats numbers → edit the 4 bullet points by hand
 
-If the stats cards' shared instance is rate-limited too often for your taste, deploy your
-own free copy: fork anuraghazra/github-readme-stats, deploy to Vercel (one click, ~5 min),
-then point the two <img> src's above at your own deployment URL instead of
-github-readme-stats.vercel.app. That is the standard fix used across the ecosystem for
-this exact problem.
+Why plain text instead of the usual github-readme-stats card image: the shared public
+instance (github-readme-stats.vercel.app) returned 503 on every single check made while
+building this profile -- not a one-off blip, it was down for the entire session. Rather
+than link to something unreliable, the numbers above are just text.
+
+If you want a live visual stats card instead, the standard fix is self-hosting: fork
+anuraghazra/github-readme-stats, deploy it to your own free Vercel account (one click,
+~5 min, needs your own GitHub/Vercel login so this isn't something that can be done for
+you), then swap in two <img> tags pointing at your own deployment URL. That removes the
+shared-instance rate limit entirely, since it's now your own quota.
 -->
