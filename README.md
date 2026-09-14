@@ -16,39 +16,30 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/itsmeakashgoyal?tab=followers"><img src="https://img.shields.io/github/followers/itsmeakashgoyal?style=flat-square&label=followers&labelColor=0e1219&color=161b22&logoColor=7ee787" alt="followers"/></a>
+  <a href="https://github.com/itsmeakashgoyal?tab=followers"><img src="https://img.shields.io/github/followers/itsmeakashgoyal?style=flat-square&label=followers&labelColor=0e1219&color=161b22" alt="followers"/></a>
   <img src="https://komarev.com/ghpvc/?username=itsmeakashgoyal&style=flat-square&label=profile+views&color=brightgreen" alt="profile views"/>
 </p>
 
 <br/>
 
-## `❯` whoami
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--   Everything below is a hand-drawn dark card, not native markdown —      -->
+<!--   GitHub renders fenced code blocks / backtick tags in the viewer's      -->
+<!--   own light-or-dark theme, which broke the terminal look. Images render  -->
+<!--   with a fixed dark background regardless of viewer theme.               -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-**Senior Software Engineer at Adobe** with **11+ years** building high-performance distributed systems — from storage backends to blockchain consensus engines. Deep expertise in **Modern C++**, system design, and performance. Currently working on **GenAI & Agentic AI** for Adobe Illustrator.
-
-```text
-role        Senior Software Engineer · C++ Specialist · Backend & AI
-now         GenAI & Agentic AI for Adobe Illustrator @ Adobe
-focus       Distributed Systems · System Design · Modern C++
-domains     Automotive · IoT · Blockchain · Enterprise Storage · AI
-open to     Backend / server-side roles · open source
-location    Bangalore, India
-```
+<div align="center">
+  <img src="./files/panel-whoami.svg" width="100%" alt="whoami — Senior Software Engineer, C++ Specialist, Backend and AI, at Adobe on GenAI and Agentic AI" />
+</div>
 
 <br/>
 
-## `❯` cat stack.txt
-
-```text
-languages   C · C++ · Python · Shell
-systems     Linux · Docker · Git · Jenkins
-databases   MySQL · Oracle
-strengths   Data Structures · Algorithms · Performance · System Design
-```
+<div align="center">
+  <img src="./files/panel-stack.svg" width="100%" alt="stack — C, C++, Python, Shell, Linux, Docker, Git, Jenkins, MySQL, Oracle" />
+</div>
 
 <br/>
-
-## `❯` gh api users/itsmeakashgoyal
 
 <div align="center">
   <img src="./files/stats.svg" width="100%" alt="GitHub stats — 26 public repos, 5 followers, top language C++, on GitHub since 2017" />
@@ -56,12 +47,8 @@ strengths   Data Structures · Algorithms · Performance · System Design
 
 <br/>
 
-## `❯` echo $INTERESTS
-
 <div align="center">
-
-`C` &nbsp;·&nbsp; `C++` &nbsp;·&nbsp; `Data Structures` &nbsp;·&nbsp; `Algorithms` &nbsp;·&nbsp; `System Design` &nbsp;·&nbsp; `Distributed Systems` &nbsp;·&nbsp; `Linux` &nbsp;·&nbsp; `IoT` &nbsp;·&nbsp; `Blockchain` &nbsp;·&nbsp; `AI`
-
+  <img src="./files/panel-interests.svg" width="100%" alt="Interests — C, C++, Data Structures, Algorithms, System Design, Distributed Systems, Linux, IoT, Blockchain, AI" />
 </div>
 
 <br/>

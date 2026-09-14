@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 324" width="900" height="324" fill="none" font-family="'JetBrains Mono','SF Mono',ui-monospace,Consolas,monospace">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0e1219"/>
+      <stop offset="1" stop-color="#0b0e14"/>
+    </linearGradient>
+    <filter id="sh" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="8" stdDeviation="14" flood-color="#000000" flood-opacity="0.45"/>
+    </filter>
+  </defs>
+  <rect x="20" y="20" width="860" height="284" rx="14" fill="url(#g)" stroke="#1d2530" stroke-width="1" filter="url(#sh)"/>
+  <text x="52" y="60" font-size="15"><tspan fill="#58d68d">❯</tspan><tspan fill="#c4cbd8" dx="10">cat whoami.txt</tspan></text>
+  <line x1="52" y1="76" x2="848" y2="76" stroke="#1d2530" stroke-width="1"/>
+<text x="52" y="96" font-size="14.5" fill="#5b6675">role</text>
+<text x="210" y="96" font-size="14.5" fill="#c4cbd8">Senior Software Engineer &#183; C++ Specialist &#183; Backend &amp; AI</text>
+<text x="52" y="130" font-size="14.5" fill="#5b6675">now</text>
+<text x="210" y="130" font-size="14.5" fill="#c4cbd8">GenAI &amp; Agentic AI for Adobe Illustrator @ Adobe</text>
+<text x="52" y="164" font-size="14.5" fill="#5b6675">focus</text>
+<text x="210" y="164" font-size="14.5" fill="#c4cbd8">Distributed Systems &#183; System Design &#183; Modern C++</text>
+<text x="52" y="198" font-size="14.5" fill="#5b6675">domains</text>
+<text x="210" y="198" font-size="14.5" fill="#c4cbd8">Automotive &#183; IoT &#183; Blockchain &#183; Enterprise Storage &#183; AI</text>
+<text x="52" y="232" font-size="14.5" fill="#5b6675">open to</text>
+<text x="210" y="232" font-size="14.5" fill="#c4cbd8">Backend / server-side roles &#183; open source</text>
+<text x="52" y="266" font-size="14.5" fill="#5b6675">location</text>
+<text x="210" y="266" font-size="14.5" fill="#c4cbd8">Bangalore, India</text>
+</svg>
