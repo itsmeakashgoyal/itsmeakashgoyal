@@ -8,10 +8,6 @@
 [![Followers](https://img.shields.io/github/followers/itsmeakashgoyal?label=followers&style=flat-square&color=333)](https://github.com/itsmeakashgoyal?tab=followers)
 ![Profile views](https://komarev.com/ghpvc/?username=itsmeakashgoyal&style=flat-square&color=brightgreen&label=views)
 
-<a href="https://itsmeakashgoyal.github.io/portfolio/">
-  <img src="./files/footer.svg" width="100%" alt="./portfolio --open — click anywhere to launch the interactive site" />
-</a>
-
 </div>
 
 ## About
@@ -47,6 +43,14 @@
 ## Interests
 
 C · C++ · Data Structures · Algorithms · System Design · Distributed Systems · Linux · IoT · Blockchain · AI
+
+<div align="center">
+
+<a href="https://itsmeakashgoyal.github.io/portfolio/">
+  <img src="./files/footer.svg" width="100%" alt="./portfolio --open — click anywhere to launch the interactive site" />
+</a>
+
+</div>
 
 <!--
 Scaling this profile
